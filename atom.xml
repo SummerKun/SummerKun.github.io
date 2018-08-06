@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Summer</title>
+  <icon>https://www.gravatar.com/avatar/6631070aaca05e80a1ac1fa162b1b327</icon>
+  <subtitle>内向腼腆，容易相处</subtitle>
+  <link href="/xia/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/xia/"/>
+  <updated>2018-08-06T13:58:16.872Z</updated>
+  <id>http://yoursite.com/xia/</id>
+  
+  <author>
+    <name>SummerKun</name>
+    <email>1344846174@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/xia/2018/08/06/cc/"/>
+    <id>http://yoursite.com/xia/2018/08/06/cc/</id>
+    <published>2018-08-06T08:43:25.000Z</published>
+    <updated>2018-08-06T13:58:16.872Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://yoursite.com/xia/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老夫的第一个blog</title>
+    <link href="http://yoursite.com/xia/2018/08/06/helloworld/"/>
+    <id>http://yoursite.com/xia/2018/08/06/helloworld/</id>
+    <published>2018-08-06T08:43:25.000Z</published>
+    <updated>2018-08-06T09:08:10.993Z</updated>
+    
+    <content type="html"><![CDATA[<p>步入博文的第一步!—————-</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;步入博文的第一步!—————-&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="杂谈" scheme="http://yoursite.com/xia/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
