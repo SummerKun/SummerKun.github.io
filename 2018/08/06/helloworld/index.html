@@ -340,6 +340,22 @@
   
 
   
+  <div id="gitment-ctn"></div> 
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: "http://yoursite.com/xia/xia/2018/08/06/helloworld/",
+  owner: 'summerkun',
+  repo: 'https://github.com/SummerKun/xia/issues',
+  oauth: {
+    client_id: 'd39c42b277c4a3cf769e',
+    client_secret: '211469d942c74ab80b453c88c367a825806d9767',
+  },
+})
+gitment.render('gitment-ctn')
+</script>
+  
 
 
           </div>
