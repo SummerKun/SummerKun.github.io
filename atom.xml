@@ -3,11 +3,11 @@
   <title>Summer</title>
   <icon>https://www.gravatar.com/avatar/6631070aaca05e80a1ac1fa162b1b327</icon>
   <subtitle>内向腼腆，容易相处</subtitle>
-  <link href="/xia/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/xia/"/>
+  <link href="http://yoursite.com/SummerKun.github.io/"/>
   <updated>2018-08-23T16:02:23.067Z</updated>
-  <id>http://yoursite.com/xia/</id>
+  <id>http://yoursite.com/SummerKun.github.io/</id>
   
   <author>
     <name>SummerKun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>老夫的第一个blog</title>
-    <link href="http://yoursite.com/xia/2018/07/06/helloworld/"/>
-    <id>http://yoursite.com/xia/2018/07/06/helloworld/</id>
+    <link href="http://yoursite.com/SummerKun.github.io/2018/07/06/helloworld/"/>
+    <id>http://yoursite.com/SummerKun.github.io/2018/07/06/helloworld/</id>
     <published>2018-07-06T10:43:25.000Z</published>
     <updated>2018-08-23T16:02:23.067Z</updated>
     
@@ -38,7 +38,7 @@
     </summary>
     
     
-      <category term="杂谈" scheme="http://yoursite.com/xia/tags/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://yoursite.com/SummerKun.github.io/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
